@@ -16,3 +16,7 @@
 20220603%%%12 p.m.%%%NCSA, 2100%%%Patrick Aleo%%%Department of Astronomy, University of Illinois Urbana-Champaign%%%The Young Supernova Experiment (YSE): DR 1 and Supernovae Photometric Classification.%%%TBA%%%paleo.jpg%%%https://astro.illinois.edu/directory/profile/paleo2%%%paleo2[at]illinois.edu%%%-
 #
 20220527%%%12 p.m.%%%NCSA, 2100%%%Dr. Francisco Förster Burón%%%Universidad de Chile%%%The ALeRCE astronomical alert broker.%%%TBA%%%fforster.jpg%%%https://www.uchile.cl/portafolio-academico/impresion.jsf?username=fforster%%%francisco.forster[at]gmail.com%%%-
+#
+20220520%%%12 p.m.%%%NCSA, 2100%%%Adina Feinstein%%%University of Chicago%%%Exploiting TESS data to Understand Flare Statistics and Stellar Magnetic Fields Across the Main Sequence.%%%TBA%%%afeinstein.jpeg%%%https://astro.uchicago.edu/people/adina-feinstein.php%%%afeinstein[at]uchicago.edu%%%-
+#
+20220506%%%12 p.m.%%%NCSA, 2100%%%Dr. Burçin Mutlu-Pakdil%%%University of Chicago%%%The Smallest and Faintest Galaxies: Clues to the Nature of Dark Matter and Galaxy Formation.%%%TBA%%%bpakdil.jpeg%%%https://kicp.uchicago.edu/people/profile/burcin_mutlu-pakdil.html%%%burcinmp[at]uchicago.edu%%%-

@@ -1,7 +1,8 @@
 *{margin:0;padding:0;border:none;}
 
 :root {
-  --table-size: 850px;
+  /*--table-size: 850px;*/
+  --table-size: 70%;
   /*--gradient-color:  linear-gradient(to bottom, #333333 0%, #000222 60%);
   --gradient-color:  linear-gradient(to bottom, #bbdbbe 0%, #deebdd 100%);
   --gradient-color:  linear-gradient(to bottom, #c58e7f 0%, #dfa375 100%);
@@ -91,7 +92,7 @@ table.table_blank{
 
 table.table_main{
     border-width: 1px;
-    width:1200px;
+    width:100%;
 }
 
 table.table_header{

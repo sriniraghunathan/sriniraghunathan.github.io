@@ -1,0 +1,317 @@
+*{margin:0;padding:0;border:none;}
+
+:root {
+  --table-size: 850px;
+  /*--gradient-color:  linear-gradient(to bottom, #333333 0%, #000222 60%);
+  --gradient-color:  linear-gradient(to bottom, #bbdbbe 0%, #deebdd 100%);
+  --gradient-color:  linear-gradient(to bottom, #c58e7f 0%, #dfa375 100%);
+  --gradient-color:  linear-gradient(to bottom, #f2a65a 0%, #772f1a 100%);
+  --gradient-color: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
+  --gradient-color: linear-gradient(45deg, #a40606 -10%, #d98324 100%);
+  --gradient-color: linear-gradient(135deg, #000000 0%, #b82e1f 74%);*/
+  /*--gradient-color: linear-gradient(135deg, #000000 0%, #55efc4 74%);*/
+
+  /*--gradient-color: linear-gradient(135deg, #333333 0%, #b82e00 74%);
+  --gradient-color-rev: linear-gradient(135deg, #ad1502 0%, #333333 74%);
+  --gradient-color-ul: linear-gradient(270deg, #b82e1f 0%, #333333 100%);*/
+
+  --gradient-color: linear-gradient(135deg, #deebdd 0%, #fffff0 74%);
+  --gradient-color-rev: linear-gradient(135deg, #ffffff 0%, #deebdd 74%);
+  --gradient-color-ul: linear-gradient(270deg, #deebdd 0%, #bbdbbe 100%);
+
+  /*--gradient-color: linear-gradient(135deg, #d2d8d6 20%, #fffff0 74%);
+  --gradient-color-rev: linear-gradient(135deg, #ffffff 20%, #d2d8d6 74%);
+  --gradient-color-ul: linear-gradient(270deg, #8693ab 0%, #bdd4e7 100%);*/
+}
+
+/*links*/
+a:link {color: black; text-decoration: underline; }
+a:active {color: black; text-decoration: underline; }
+a:visited {color: grey; text-decoration: underline; }
+
+
+body{
+margin:0.5em;
+font-family:times new roman;
+/*background: silver url(../images/bgp.jpg);*/
+}
+
+/*avatar*/
+img{
+  border-radius: 60%;
+  vertical-align: super;
+  padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;
+}
+/*avatar*/
+
+
+
+/*hover*/
+ul.header_ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /*background-color: #333333; /*brown;*/
+  background: var(--gradient-color-ul);
+}
+
+li.header_ul {
+  float: left;
+}
+
+li.header_ul a {
+  display: block;
+  color: black;/*white;*/
+  font-size: 16px;
+  text-align: center;
+  padding: 8px;
+  text-decoration: none;
+  /*font-weight: bold;*/
+}
+
+li.header_ul a:hover {
+  background-color: #94c997;/*crimson;/*grey; /*crimson;*/
+  text-decoration: none;
+  font-weight: bold;
+}  
+/*hover*/
+
+
+
+
+
+h1{display:inline;}
+/*h2{display:inline;}*/
+
+table.table_blank{
+    border-width: 0px;
+    width:100px;
+}
+
+table.table_main{
+    border-width: 1px;
+    width:1200px;
+}
+
+table.table_header{
+    border-width: 1px;
+    width:var(--table-size);
+    height:200px;
+    /*border-collapse: collapse;*/
+    border-style: groove;
+    border-color: whitesmoke whitesmoke whitesmoke whitesmoke;  
+    /*background-color:#282828;/*firebrick;*/
+    background: var(--gradient-color);
+    color:darkred;
+    font-size: 11px;
+    font-family: Times New Roman;
+    padding: 10px;
+    align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.table_content{
+    line-height: 1.6em;
+    border-width: 1px;
+    width:var(--table-size);
+    height:400px;
+    /*border-collapse: collapse;*/
+    border-style: groove;
+    border-color: whitesmoke whitesmoke whitesmoke whitesmoke;  
+    /*background-color:firebrick;*/
+    background: var(--gradient-color-rev);
+    color:darkred;
+    font-size: 18px;
+    font-family: Times New Roman;
+    padding: 10px;
+    align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+table.aboutmain{
+	border-width: 1px 1px 1px 1px;
+	border-spacing: 2px;
+	width:1100px;
+	margin-left:auto; 
+	margin-right:auto;
+	vertical-align: top;
+	border-style: groove;
+	border-color: silver silver silver silver; /*silver silver silver silver;*/
+	background-color: #000000;
+	color:silver;
+}
+
+table.aboutmainsub{
+	border-width: 1px 1px 1px 1px;
+	border-spacing: 1px;
+	width:900px;
+	background-color: #000000;
+	color:silver;
+}
+
+table.sidebar{
+	border-width: 1px;
+	width:185px;
+	border-style: groove;
+	border-color: silver silver silver silver;	
+	background-color: #000000;
+	color:silver;
+}
+
+
+table.header_links{
+	border-width: 1px;
+	width:1100px;
+	margin-left:auto; 
+	margin-right:auto;
+	margin-top:auto; 
+	margin-bottom:auto;
+	border-style: groove;
+	border-color: silver;	
+	background-color: #000000;
+	color:silver;
+}
+
+table.readme{
+	border-width: 1px;
+	width:970px;
+	margin-left:auto; 
+	margin-right:auto;
+	margin-top:auto; 
+	margin-bottom:auto;
+	border-style: groove;
+	border-color: silver;	
+	background-color: #000000;
+	color:silver;
+}
+
+.text_readme_title {
+	font-size: 12px;	
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	font-style: italic;
+	color: silver;
+}
+
+.text_green {
+	font-size: 12px;	
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	color: green;
+}
+
+.text_silver {
+	font-size: 12px;	
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	color: silver;
+}
+
+.text_readme {
+	font-size: 12px;
+	font-family: Trebuchet MS;
+	color: silver; /*silver;*/
+}
+
+.text_readme_imp {
+	font-size: 12px;
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	font-style: italic;
+	color: royalblue;
+}
+table.sidebar td.title{
+	background: url("../images/title.gif");
+	text-align: center;
+	font-family:trebuchet ms;
+	color: silver;
+}
+
+
+table.display_table {
+	width: 230px;
+	font-family: Trebuchet ms;
+	font-size: 11px;
+	border-width: thin;
+	border-style: inset;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+table.display_table th {
+	height: 28px;
+	text-align: center;
+	color: silver;
+	border-width: thin;
+	border-style: inset;
+	border-color: silver;
+}
+
+table.display_table td {
+	height: 28px;
+	text-align: center;
+	color: lightskyblue;
+	border-width: thin;
+	border-style: inset;
+	border-color: silver;
+}
+
+table.notes_table {
+	width: 230px;
+	font-family: Trebuchet ms;
+	color: silver; /*silver;*/
+	font-size: 11px;
+	border-collapse: collapse;
+}
+
+
+table.lunar_table {
+	width: 640px;
+	font-family: Trebuchet ms;
+	border-width: thin;
+	border-style: inset;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+table.lunar_table th {
+	width: 60px;
+	height: 30px;
+	text-align: center;
+	font-size: 12px;
+	color: silver;
+	border-width: thin;
+	border-style: inset;
+	border-color: silver;
+}
+
+table.lunar_table td {
+	vertical-align: top;
+	width: 60px;
+	height: 70px;
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color: silver;
+	background-color: #000000;
+	border-width: thin;
+	border-style: inset;
+	border-color: silver;
+}
+
+table.lunar_table td.empty {
+	width: 60px;
+	height: 70px;
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #000000;
+	border-width: thin;
+	border-style: inset;
+	border-color: silver;
+}
+
+

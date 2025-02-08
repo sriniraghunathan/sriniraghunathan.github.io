@@ -1,0 +1,18 @@
+#Date%%%Time%%%Location%%%Speaker%%%Affiliation%%%Title%%%abstract%%%speakerimage%%%speakerlink%%%email%%%Slides
+20221111%%%12 p.m.%%%NCSA, 2100%%%Dr. Nicholas Battaglia%%%Cornell University%%%Galaxy formation.%%%TBA%%%nbattaglia.jpeg%%%https://astro.cornell.edu/nicholas-battaglia/%%%nb572[at]cornell.edu%%%-
+#
+20221014%%%12 p.m.%%%NCSA, 2100%%%Melanie Archipley%%%Department of Astronomy, University of Illinois Urbana-Champaign%%%TBA.%%%TBA%%%marchipley.jpeg%%%https://astro.illinois.edu/directory/profile/maa14/%%%maa14[at]illinois.edu%%%-
+#
+20221014%%%12 p.m.%%%NCSA, 2100%%%Kedar Phadke%%%Department of Astronomy, University of Illinois Urbana-Champaign%%%TBA.%%%TBA%%%kphadke.jpg%%%https://astro.illinois.edu/directory/profile/kphadke2/%%%kphadke2[at]illinois.edu%%%-
+#
+20221007%%%12 p.m.%%%NCSA, 2100%%%Dr. Joel Meyers%%%Southern Methodist University%%%The Bright Future of Cosmic Microwave Background Science.%%%TBA%%%jmeyers.jpeg%%%https://joelmeyers.github.io/%%%jrmeyers[at]smu.edu%%%-
+#
+20220826%%%12 p.m.%%%NCSA, 3100%%%Dr. Anita Nikolich%%%School of Information Sciences, University of Illinois Urbana-Champaign%%%The Internet Hates Science.%%%TBA%%%anikolich.jpeg%%%https://ischool.illinois.edu/people/anita-nikolich%%%anitan[at]illinois.edu%%%-
+#
+20220610%%%12 p.m.%%%NCSA, 2100%%%Prof. Raul Jimenez%%%ICREA and University of Barcelona%%%Do we understand the Universe?%%%TBA%%%rjimenez.jpeg%%%https://www.icrea.cat/Web/ScientificStaff/Jimenez-Tellado-Raul-428%%%raul.jimenez[at]icc.ub.edu%%%-
+#
+20220603%%%12 p.m.%%%NCSA, 2100%%%Colin Burke%%%Department of Astronomy, University of Illinois Urbana-Champaign%%%A forward model of AGN variability for LSST Rubin.%%%TBA%%%cburke.jpg%%%https://astro.illinois.edu/directory/profile/colinjb2%%%colinjb2[at]illinois.edu%%%-
+#
+20220603%%%12 p.m.%%%NCSA, 2100%%%Patrick Aleo%%%Department of Astronomy, University of Illinois Urbana-Champaign%%%The Young Supernova Experiment (YSE): DR 1 and Supernovae Photometric Classification.%%%TBA%%%paleo.jpg%%%https://astro.illinois.edu/directory/profile/paleo2%%%paleo2[at]illinois.edu%%%-
+#
+20220527%%%12 p.m.%%%NCSA, 2100%%%Dr. Francisco Förster Burón%%%Universidad de Chile%%%The ALeRCE astronomical alert broker.%%%TBA%%%fforster.jpg%%%https://www.uchile.cl/portafolio-academico/impresion.jsf?username=fforster%%%francisco.forster[at]gmail.com%%%-
